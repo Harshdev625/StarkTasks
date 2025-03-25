@@ -92,6 +92,20 @@ This frontend application communicates with the backend API for the following op
   - `PATCH /api/tasks/:id`: Update an existing task.
   - `DELETE /api/tasks/:id`: Delete a task.
 
+## Screenshots
+
+### **Login Page**
+![Login Page](screenshots/login.png)
+
+### **User Dashboard**
+![User Dashboard](screenshots/user_dashboard.png)
+
+### **Admin Dashboard**
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### **Create Task UI**
+![Create Task UI](screenshots/create_task.png)
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
@@ -99,7 +113,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Feel free to update any section as needed or add additional details about your project!
